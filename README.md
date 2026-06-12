@@ -4,7 +4,7 @@
 
 ## Overview
 
-A Data Classification model built using Python and Scikit-learn as part of the DecodeLabs AI Engineering internship. This project demonstrates the complete supervised learning pipeline — loading a dataset, exploring it, splitting it, training a KNN model, and evaluating its accuracy — using the classic Iris flower dataset.
+A Data Classification model built using Python and Scikit-learn . This project demonstrates the complete supervised learning pipeline — loading a dataset, exploring it, splitting it, training a KNN model, and evaluating its accuracy — using the classic Iris flower dataset.
 
 ---
 
