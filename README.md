@@ -1,5 +1,4 @@
-# Project 2 — Data Classification Using AI 
-**DecodeLabs Industrial Training | Batch 2026 | Artificial Intelligence**
+# Data Classification
 
 ---
 
@@ -35,6 +34,3 @@ Applies the trained model on the test data and generates predicted class labels 
 ### 8. `accuracy_score()` — Evaluating the Model
 Compares the predicted labels against the actual labels and returns the percentage of correctly classified samples.
 
----
-
-*Project 2 Completed | DecodeLabs AI Internship 2026*
